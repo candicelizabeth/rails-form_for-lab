@@ -8,3 +8,5 @@ class CreateStudents < ActiveRecord::Migration
     end
   end
 end
+
+:school_class => { :title => "Computer Science", :room_number => 5 } }
